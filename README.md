@@ -1,7 +1,7 @@
 # EXT REMOVER
 This is a curated list of exploits for ChromeOS made by (3kh0). It started with LTBEEF, and now there are more! Some of these exploits can destroy your computer if misused. So PLEASE, PLEASE make sure you follow these instructions very carefully!
 
-Please use these only when you have permission, I (3kh0) and (Timco307) do not condone the use of any exploits for illegal purposes!
+Please use these only when you have permission. I (3kh0) and (Timco307) do not condone the use of any exploits for illegal purposes!
 
 - [EXT-REMOVER](#ext-remover)
   * [Securly Kill](#securly-kill)
