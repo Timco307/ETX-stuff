@@ -1,17 +1,7 @@
-# EXT-REMOVER
-This is a curated list of exploits for ChromeOS. It started with LTBEEF, and now there are more! Some of these exploits can destroy your computer if misused. So PLEASE, PLEASE make sure you follow these instructions very carefully!
+# EXT REMOVER
+This is a curated list of exploits for ChromeOS made by (3kh0). It started with LTBEEF, and now there are more! Some of these exploits can destroy your computer if misused. So PLEASE, PLEASE make sure you follow these instructions very carefully!
 
-<b>Need help? Ask for help <a href="https://github.com/3kh0/ext-remover/discussions">here</a>!</b>
-
-Please use these only when you have permission, I (3kh0) do not condone the use of any exploits for illegal purposes!
-
-<img width="250px" src="https://user-images.githubusercontent.com/58097612/191354621-bf7ff072-b9d7-46b5-994a-4d2adbf0e4f3.png">
-
-Image Credit: LittleMissNyan
-
-Thank you to all of the contributors! You all are pretty epic :D
-
-<a href="https://github.com/3kh0/ext-remover/graphs/contributors"><img src="https://contrib.rocks/image?repo=3kh0/ext-remover" /></a>
+Please use these only when you have permission, I (3kh0) and (Timco307) do not condone the use of any exploits for illegal purposes!
 
 - [EXT-REMOVER](#ext-remover)
   * [Securly Kill](#securly-kill)
